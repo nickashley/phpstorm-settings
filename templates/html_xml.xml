@@ -1,0 +1,10 @@
+<templateSet group="html/xml">
+  <template name="formrow" value="&lt;div class=&quot;form-group&quot;&gt;&#10;  &lt;label for=&quot;$name$&quot;&gt;$label$&lt;/label&gt;&#10;  &lt;input type=&quot;$type$&quot; class=&quot;form-control&quot; id=&quot;$name$&quot;&gt;&#10;&lt;/div&gt;" description="Bootstrap Form Row" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
