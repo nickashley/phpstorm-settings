@@ -11,6 +11,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="bz2" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
