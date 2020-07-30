@@ -3,6 +3,11 @@
     <option name="UI_SHOW_FILES" value="false" />
   </component>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
   </component>
 </application>
