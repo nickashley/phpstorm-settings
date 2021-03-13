@@ -4,5 +4,6 @@
   </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
   </component>
 </application>
