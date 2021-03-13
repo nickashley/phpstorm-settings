@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="d93f88b6-b078-4131-b504-7e2fb7dac658" name="apexplaybook.com" url="http://apexplaybook.com.test">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-    </option>
-  </component>
-</application>
