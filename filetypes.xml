@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="CandidateFactory" type="PHP" />
       <mapping pattern="Stripe.php" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -13,9 +12,9 @@
       <mapping ext="bz2" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <mapping ext="tsv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
