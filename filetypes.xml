@@ -13,6 +13,8 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <mapping ext="tsv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
