@@ -9,4 +9,8 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="MinimizeCurrentWindow" />
 </keymap>
