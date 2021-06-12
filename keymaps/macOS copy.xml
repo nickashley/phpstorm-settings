@@ -13,4 +13,8 @@
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="SurroundWith" />
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
 </keymap>
