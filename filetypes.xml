@@ -12,6 +12,7 @@
       <mapping ext="bz2" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="SQL" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
