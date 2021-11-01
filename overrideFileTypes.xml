@@ -1,0 +1,7 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Sites/nurserecruiter.com/bootstrap/cache/packages.php" />
+    <file url="file://$USER_HOME$/Sites/nurserecruiter.com/bootstrap/cache/services.php" />
+    <file url="file://$USER_HOME$/Sites/nurserecruiter.com/storage/logs/laravel.log" />
+  </component>
+</application>
