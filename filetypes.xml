@@ -3,13 +3,13 @@
     <extensionMap>
       <mapping pattern="CandidateFactory" type="PHP" />
       <mapping pattern="Stripe.php" type="PHP" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="notifications" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="UsesSSO" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="notifications" type="PLAIN_TEXT" />
       <mapping ext="bz2" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
@@ -17,6 +17,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext="gz" type="SQL" />
     </extensionMap>
   </component>
 </application>
