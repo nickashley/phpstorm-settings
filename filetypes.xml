@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="CandidateFactory" type="PHP" />
       <mapping pattern="Stripe.php" type="PHP" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
